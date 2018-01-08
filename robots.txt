@@ -1,0 +1,4 @@
+Sitemap: https://ai-saturdays-shiraz.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: ai-saturdays-shiraz.github.io
