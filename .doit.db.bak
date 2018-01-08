@@ -46,7 +46,7 @@
 'copy_assets:output\\assets\\css\\images\\controls.png', (132608, 599)
 'render_taxonomies:output\\fa\\rss.xml', (39936, 144)
 'render_galleries:output\\galleries\\rss.xml', (198656, 6450)
-'sitemap:output\\sitemap.xml', (44032, 1642)
+'sitemap:output\\sitemap.xml', (44032, 1641)
 'render_galleries:output\\fa\\galleries\\index.html', (46080, 3376)
 'copy_assets:output\\assets\\css\\images\\ie6\\borderMiddleRight.png', (102912, 640)
 'copy_assets:output\\assets\\css\\docs.css', (126464, 564)
