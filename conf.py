@@ -93,7 +93,7 @@ DEFAULT_LANG = "fa"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    
+
 }
 
 # What will translated input files be named like?
@@ -251,7 +251,7 @@ TIMEZONE = "Asia/Tehran"
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {'files': 'files'}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing code listings to be processed and published on
