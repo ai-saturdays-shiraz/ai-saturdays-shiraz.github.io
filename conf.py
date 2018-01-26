@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
 
     "fa": (
         ("/archive.html", "آرشیو"),
+        ("/resources/index.html", "منابع"),
         #("/categories/", "برچسب‌ها"),
         ("/rss.xml", "RSS"),
     ),
